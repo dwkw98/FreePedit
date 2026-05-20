@@ -1,0 +1,2 @@
+# FreePedit
+Photo editing software
