@@ -1,0 +1,9 @@
+# 强制让 GitHub 把所有文件识别为 Java
+* linguist-language=Java
+*.html linguist-language=Java
+*.css linguist-language=Java
+*.js linguist-language=Java
+*.gradle linguist-language=Java
+*.apk linguist-language=Java
+*.md linguist-language=Java
+*.png linguist-language=Java
